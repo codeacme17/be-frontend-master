@@ -20,6 +20,6 @@
 
 #### 原型和原型链
 
-- [ ] [理解原型设计模式以及JavaScript中的原型规则]()
+- [理解原型设计模式以及JavaScript中的原型规则]()
 
-- [ ] [instanceof 底层实现原理，手动实现一个 instanceof](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/instanceof.md)
+- [instanceof 底层实现原理，手动实现一个 instanceof](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/instanceof.md)
