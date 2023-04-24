@@ -23,7 +23,8 @@
 ### 代码实现
 
 ```js
-function _instance(L, R) {
+function _instanceof(L, R) {
+  if(!isObject(L)) return false 
   const O = R.prototype
   L = L.__proto__
   
