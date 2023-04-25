@@ -16,9 +16,9 @@
 
 ## Javascript 基础
 
-#### 变量与类型
-
 #### 原型和原型链
+
+- [理解原型设计模式以及 JavaScript 中的原型规则](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/prototype.md)
 
 - [`instanceof` 底层实现原理，手动实现一个 `instanceof`](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/instanceof.md)
 
