@@ -1,5 +1,6 @@
 ## `Symbol` 类型在实际开发中的应用、可手动实现一个简单的 `Symbol`
 
+> Reference: [MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Symbol)
 
 ### 使用方式
 
