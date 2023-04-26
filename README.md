@@ -18,17 +18,17 @@
 
 #### 变量和类型
 
-- [JavaScript 规定了几种语言类型](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/type.md)
+- [Javascript 规定了几种语言类型](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/type.md)
 
-- [JavaScript 对象的底层数据结构是什么](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/object.md)
+- [Javascript 对象的底层数据结构是什么](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/object.md)
 
 - [`Symbol` 类型在实际开发中的应用、可手动实现一个简单的 `Symbol`](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/symbol.md)
 
-- [JavaScript 中的变量在内存中的具体存储形式](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/variable.md)
+- [Javascript 中的变量在内存中的具体存储形式](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/variable.md)
 
 #### 原型和原型链
 
-- [理解原型设计模式以及 JavaScript 中的原型规则](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/prototype.md)
+- [理解原型设计模式以及 Javascript 中的原型规则](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/prototype.md)
 
 - [`instanceof` 底层实现原理，手动实现一个 `instanceof`](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/instanceof.md)
 
