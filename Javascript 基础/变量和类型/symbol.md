@@ -29,6 +29,20 @@ obj[symbol] = Symbol()
 obj[symbol] = "a" // 该属性独一无二
 ```
 
+### 手动实现
+
+```js
+const _symbol = (() => {
+  let count = 0
+  return (key) => {
+    const uniqueId = `__${key}_${count}__`
+    count++
+    return uniqueId
+  }
+})()
+```
+
+
 ### 特别接口
 
 #### `Symbol.iterator`
