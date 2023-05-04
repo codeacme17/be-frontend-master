@@ -41,6 +41,8 @@
 
 - [实现继承的几种方式以及他们的优缺点](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/realize-inherit.md)
 
+- [至少说出一种开源项目(如`Node.js`)中应用原型继承的案例](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/inherit-example.md)
+
 - [可以描述 `new` 一个对象的详细过程，手动实现一个 `new` 操作符](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/new.md)
 
 
