@@ -47,6 +47,13 @@
 
 - [理解 ES6 `class` 构造以及继承的底层实现原理](/Javascript%20%E5%9F%BA%E7%A1%80//%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE//class-in-es6.md)
 
+
+#### 作用域和闭包
+
+- [理解词法作用域和动态作用域](/Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//lexical-scope-dynamic-scope.md)
+
+
+
 </br>
 
 
