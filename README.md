@@ -52,6 +52,7 @@
 
 - [理解词法作用域和动态作用域](/Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//lexical-scope-dynamic-scope.md)
 
+- [理解 Javascript 的作用域和作用域链]()
 
 
 </br>
