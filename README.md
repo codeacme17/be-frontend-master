@@ -32,7 +32,6 @@
 
 - [至少可以说出三种判断 Javascript 数据类型的方式，以及他们的优缺点，如何准确的判断数组类型](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/type-judgement.md)
 
-
 #### 原型和原型链
 
 - [理解原型设计模式以及 Javascript 中的原型规则](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/prototype.md)
@@ -47,16 +46,15 @@
 
 - [理解 ES6 `class` 构造以及继承的底层实现原理](/Javascript%20%E5%9F%BA%E7%A1%80//%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE//class-in-es6.md)
 
-
 #### 作用域和闭包
 
 - [理解词法作用域和动态作用域](/Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//lexical-scope-dynamic-scope.md)
 
 - [理解 Javascript 的作用域和作用域链](/Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//scope-chain.md)
 
+- [理解 Javascript 中的执行上下文栈，可以应用堆栈信息快速定位问题](/Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//context-stack.md)
 
 </br>
-
 
 ## 数据结构与算法
 
