@@ -32,7 +32,6 @@ function Child() {
   Parent.call(this)
   this.type = "child"
 }
-Child.prototype = new Parent()
 const child = new Child()
 console.log(child.name) // "parent"
 ```
