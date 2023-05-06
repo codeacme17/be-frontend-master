@@ -13,7 +13,7 @@
     <button id="throttle">throttle</button>
   </body>
 
-  <script type="text/babel" data-presets="typescript">
+  <script>
     // 防抖：每次触发事件时都取消之前的延时调用方法
     function debounce(fn, delay) {
       let timer = 0
@@ -22,7 +22,7 @@
         clearTimeout(timer)
 
         timer = setTimeout(() => {
-          fn()
+          fn.apply(this, arguments)
         }, delay)
       }
     }
@@ -44,7 +44,7 @@
         flag = false
 
         setTimeout(() => {
-          fn()
+          fn.apply(this, arguments)
           flag = true
         }, delay)
       }
@@ -52,7 +52,7 @@
     const tbtn = document.getElementById("throttle")
     tbtn.addEventListener(
       "click",
-      throttle(() => console.log(1), 1000)
+      throttle(() => console.log("throttle"), 1000)
     )
   </script>
 </html>
