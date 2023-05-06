@@ -54,6 +54,8 @@
 
 - [理解 Javascript 中的执行上下文栈，可以应用堆栈信息快速定位问题](/Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//context-stack.md)
 
+- [`this` 的原理以及几种不同使用场景的取值](/Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//this.md)
+
 </br>
 
 ## 数据结构与算法
