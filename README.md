@@ -9,7 +9,7 @@
   <br />
   
   <samp>
-    REFERENCE [JJ](https://juejin.cn/post/6844903830887366670)
+    REFERENCE https://juejin.cn/post/6844903830887366670
   </samp>
 </p>
 <br />
