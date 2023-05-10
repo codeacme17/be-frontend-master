@@ -1,6 +1,6 @@
 ## `instanceof` 的底层实现原理，手动实现一个 `instanceof`
 
-> REFERENCE [知乎](https://zhuanlan.zhihu.com/p/105487552)
+> REFERENCE [zhihu](https://zhuanlan.zhihu.com/p/105487552)
 
 ### 作用
 
