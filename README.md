@@ -18,49 +18,49 @@
 
 #### 变量和类型
 
-- [Javascript 规定了几种语言类型](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/type.md)
+- [Javascript 规定了几种语言类型](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/type.md)
 
-- [Javascript 对象的底层数据结构是什么](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/object.md)
+- [Javascript 对象的底层数据结构是什么](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/object.md)
 
-- [`Symbol` 类型在实际开发中的应用、可手动实现一个简单的 `Symbol`](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/symbol.md)
+- [`Symbol` 类型在实际开发中的应用、可手动实现一个简单的 `Symbol`](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/symbol.md)
 
-- [Javascript 中的变量在内存中的具体存储形式](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/variable.md)
+- [Javascript 中的变量在内存中的具体存储形式](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/variable.md)
 
-- [基本类型对应的内置对象，以及他们之间的装箱拆箱操作](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/variable-object.md)
+- [基本类型对应的内置对象，以及他们之间的装箱拆箱操作](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/variable-object.md)
 
-- [`null` 和 `undefined`的区别](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/null%26undefined.md)
+- [`null` 和 `undefined`的区别](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/null%26undefined.md)
 
-- [至少可以说出三种判断 Javascript 数据类型的方式，以及他们的优缺点，如何准确的判断数组类型](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/type-judgement.md)
+- [至少可以说出三种判断 Javascript 数据类型的方式，以及他们的优缺点，如何准确的判断数组类型](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/type-judgement.md)
 
-- [理解 `Map`、`WeakMap`、`Set`、`WeakSet` 的区别](/Javascript%20%E5%9F%BA%E7%A1%80//%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B//map-weakmap.md)
+- [理解 `Map`、`WeakMap`、`Set`、`WeakSet` 的区别](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B//map-weakmap.md)
 
 #### 原型和原型链
 
-- [理解原型设计模式以及 Javascript 中的原型规则](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/prototype.md)
+- [理解原型设计模式以及 Javascript 中的原型规则](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/prototype.md)
 
-- [`instanceof` 底层实现原理，手动实现一个 `instanceof`](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/instanceof.md)
+- [`instanceof` 底层实现原理，手动实现一个 `instanceof`](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/instanceof.md)
 
-- [实现继承的几种方式以及他们的优缺点](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/realize-inherit.md)
+- [实现继承的几种方式以及他们的优缺点](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/realize-inherit.md)
 
-- [至少说出一种开源项目(如`Node.js`)中应用原型继承的案例](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/inherit-example.md)
+- [至少说出一种开源项目(如`Node.js`)中应用原型继承的案例](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/inherit-example.md)
 
-- [可以描述 `new` 一个对象的详细过程，手动实现一个 `new` 操作符](/Javascript%20%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/new.md)
+- [可以描述 `new` 一个对象的详细过程，手动实现一个 `new` 操作符](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/new.md)
 
-- [理解 ES6 `class` 构造以及继承的底层实现原理](/Javascript%20%E5%9F%BA%E7%A1%80//%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE//class-in-es6.md)
+- [理解 ES6 `class` 构造以及继承的底层实现原理](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE//class-in-es6.md)
 
 #### 作用域和闭包
 
-- [理解词法作用域和动态作用域](/Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//lexical-scope-dynamic-scope.md)
+- [理解词法作用域和动态作用域](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//lexical-scope-dynamic-scope.md)
 
-- [理解 Javascript 的作用域和作用域链](/Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//scope-chain.md)
+- [理解 Javascript 的作用域和作用域链](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//scope-chain.md)
 
-- [理解 Javascript 中的执行上下文栈，可以应用堆栈信息快速定位问题](/Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//context-stack.md)
+- [理解 Javascript 中的执行上下文栈，可以应用堆栈信息快速定位问题](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//context-stack.md)
 
-- [`this` 的原理以及几种不同使用场景的取值](/Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//this.md)
+- [`this` 的原理以及几种不同使用场景的取值](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//this.md)
 
-- [闭包的实现原理和作用，可以列举几个开发中闭包的实际应用](/Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//closure.md)
+- [闭包的实现原理和作用，可以列举几个开发中闭包的实际应用](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//closure.md)
 
-- [理解堆栈溢出和内存泄漏的原理，以及如何防止](/Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//stack-overflow.md)
+- [理解堆栈溢出和内存泄漏的原理，以及如何防止](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//stack-overflow.md)
 
 </br>
 
@@ -68,16 +68,16 @@
 
 #### Javascript 编码能力
 
-- [实现一个被迭代的 `object`](/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E6%89%8B%E5%8A%A8%E5%AE%9E%E7%8E%B0%E5%89%8D%E7%AB%AF%E8%BD%AE%E5%AD%90/iterator-object.md)
+- [实现一个被迭代的 `object`](/self-examination//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95//Javascript%20%E7%BC%96%E7%A0%81%E8%83%BD%E5%8A%9B//iterator-object.md)
 
-- [实现一个可以控制并发数的 `Promise`](/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95//Javascript%20%E7%BC%96%E7%A0%81%E8%83%BD%E5%8A%9B//concurrency-promise.md)
+- [实现一个可以控制并发数的 `Promise`](/self-examination//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95//Javascript%20%E7%BC%96%E7%A0%81%E8%83%BD%E5%8A%9B//concurrency-promise.md)
 
 #### 手动实现前端轮子
 
-- [手动实现 `call`、`apply`、`bind`](/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E6%89%8B%E5%8A%A8%E5%AE%9E%E7%8E%B0%E5%89%8D%E7%AB%AF%E8%BD%AE%E5%AD%90/call-apply-bind.md)
+- [手动实现 `call`、`apply`、`bind`](/self-examination//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E6%89%8B%E5%8A%A8%E5%AE%9E%E7%8E%B0%E5%89%8D%E7%AB%AF%E8%BD%AE%E5%AD%90/call-apply-bind.md)
 
-- [手动实现符合 `Promise/A+` 规范的 `Promise`](/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95//%E6%89%8B%E5%8A%A8%E5%AE%9E%E7%8E%B0%E5%89%8D%E7%AB%AF%E8%BD%AE%E5%AD%90//promise.md)
+- [手动实现符合 `Promise/A+` 规范的 `Promise`](/self-examination//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95//%E6%89%8B%E5%8A%A8%E5%AE%9E%E7%8E%B0%E5%89%8D%E7%AB%AF%E8%BD%AE%E5%AD%90//promise.md)
 
 #### 数据结构
 
-- [理解 `哈希表` 的基本结构和特点](/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/hashtable.md)
+- [理解 `哈希表` 的基本结构和特点](/self-examination//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/hashtable.md)
