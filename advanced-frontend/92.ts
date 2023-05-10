@@ -8,36 +8,36 @@
  *
  */
 
-const data = [
+const data: any[] = [
   {
-    id: "1",
-    name: "test1",
+    id: '1',
+    name: 'test1',
     children: [
       {
-        id: "11",
-        name: "test11",
+        id: '11',
+        name: 'test11',
         children: [
           {
-            id: "111",
-            name: "test111",
+            id: '111',
+            name: 'test111',
           },
           {
-            id: "112",
-            name: "test112",
+            id: '112',
+            name: 'test112',
           },
         ],
       },
       {
-        id: "12",
-        name: "test12",
+        id: '12',
+        name: 'test12',
         children: [
           {
-            id: "121",
-            name: "test121",
+            id: '121',
+            name: 'test121',
           },
           {
-            id: "122",
-            name: "test122",
+            id: '122',
+            name: 'test122',
           },
         ],
       },
@@ -63,4 +63,4 @@ function fn(value: string) {
   return res
 }
 
-console.log(fn("112"))
+console.log(fn('112'))
