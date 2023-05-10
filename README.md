@@ -8,9 +8,7 @@
   
   <br />
   
-  <samp>
-    REFERENCE https://juejin.cn/post/6844903830887366670
-  </samp>
+
 </p>
 <br />
 
@@ -89,3 +87,10 @@
 #### 数据结构
 
 - [理解 `哈希表` 的基本结构和特点](/self-examination//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/hashtable.md)
+
+</br>
+
+## 引用
+
+- https://juejin.cn/post/6844903830887366670
+- https://juejin.cn/post/6844903830887366670
