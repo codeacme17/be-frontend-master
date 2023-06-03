@@ -89,5 +89,10 @@
 
 ## 引用
 
-- [jj](https://juejin.cn/post/6844903830887366670)
-- [jj](https://juejin.cn/post/6844903885488783374)
+<samp>
+  
+  - [前端工程师的自检清单](https://juejin.cn/post/6844903830887366670)
+
+  - [前端 100 问](https://juejin.cn/post/6844903885488783374)
+
+</samp>
