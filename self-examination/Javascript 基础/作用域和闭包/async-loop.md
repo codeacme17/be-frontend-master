@@ -9,8 +9,8 @@
 ```js
 const asyncOperations = [asyncOperation1(), asyncOperation2()]
 
-Promise.all(asyncOperations).
-  then(res => {
+Promise.all(asyncOperations)
+  .then(res => {
     // some code here ..
   })
   .catch(error => {
