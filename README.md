@@ -57,6 +57,7 @@
 
 - [理解堆栈溢出和内存泄漏的原理，以及如何防止](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//stack-overflow.md)
 
+- [如何处理循环的异步操作](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85/async-loop.md)
 
 #### 语法和 API
 
