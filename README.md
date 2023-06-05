@@ -63,6 +63,8 @@
 
 - [为何 `try` 里面放 `return`，`finally` 还会执行，理解其内部机制](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E6%89%A7%E8%A1%8C%E6%9C%BA%E5%88%B6//try-finally.md)
 
+- [Javascript 如何实现异步编程，可以详细描述 `EventLoop` 机制](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E6%89%A7%E8%A1%8C%E6%9C%BA%E5%88%B6//eventloop.md)
+
 #### 语法和 API
 
 - [理解 ECMAScript 和 Javascript 的关系](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E8%AF%AD%E6%B3%95%E5%92%8CAPI//ECMA-Javascript.md)
