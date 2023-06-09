@@ -4,14 +4,14 @@
 function _instanceof(L, R) {
   if (!isObject(L)) return false
 
-  const targetPrototype = R.prototype
-  L = L.__proto__
+  const TARGET = R.prototype
 
-  while (L) {
-    if (L === null) return false
-    if (L === targetPrototype) return true
+  let leftPrompt = L.__proto__
 
-    L = L.__proto__
+  while (leftPrompt !== null) {
+    if (leftPrompt === TARGET) return true
+
+    leftPrompt = leftPrompt.__proto__
   }
 
   return false
@@ -19,7 +19,7 @@ function _instanceof(L, R) {
 
 function isObject(target) {
   if (target === null) return false
-  return typeof target === "object" || typeof target === "function"
+  return typeof target === 'object' || typeof target === 'function'
 }
 
 const a = {}

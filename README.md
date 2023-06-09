@@ -69,6 +69,8 @@
 
 - [理解 ECMAScript 和 Javascript 的关系](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E8%AF%AD%E6%B3%95%E5%92%8CAPI//ECMA-Javascript.md)
 
+- [`setInterval` 需要注意的点，使用 `settimeout` 实现 `setInterval`](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E8%AF%AD%E6%B3%95%E5%92%8CAPI//setinterval.md)
+
 </br>
 
 ## 数据结构与算法
