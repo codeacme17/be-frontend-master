@@ -66,13 +66,15 @@
 
 - [宏任务和微任务分别有哪些](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E6%89%A7%E8%A1%8C%E6%9C%BA%E5%88%B6//micro-macro.md)
 
+- [Node 与 Browser `EventLoop` 的差异](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E6%89%A7%E8%A1%8C%E6%9C%BA%E5%88%B6//Node-Browser.md)
+
 #### 语法和 API
 
 - [理解 ECMAScript 和 Javascript 的关系](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E8%AF%AD%E6%B3%95%E5%92%8CAPI//ECMA-Javascript.md)
 
 - [`setInterval` 需要注意的点，使用 `settimeout` 实现 `setInterval`](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E8%AF%AD%E6%B3%95%E5%92%8CAPI//setinterval.md)
 
-- [Node 与 Browser `EventLoop` 的差异](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E6%89%A7%E8%A1%8C%E6%9C%BA%E5%88%B6//Node-Browser.md)
+- [熟练应用 `map`、`reduce`、`filter` 等高阶函数解决问题](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E8%AF%AD%E6%B3%95%E5%92%8CAPI//map-reduce-filter.md)
 
 </br>
 
