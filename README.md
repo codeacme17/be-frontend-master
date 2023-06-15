@@ -1,12 +1,14 @@
 <br />
 <br />
-<p align="center">
-  <samp>
+
+<p>
+  <samp align="center">
     <strong>SELF-EXAMINATION BECOMES A FRONTEND MASTER</strong> ✨ 
     <br />
     自省-成为前端大师
   </samp>
 </p>
+
 <br />
 
 ## Javascript 基础
