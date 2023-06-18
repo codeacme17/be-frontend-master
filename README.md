@@ -77,6 +77,8 @@
 
 - [`setInterval` 需要注意的点，使用 `settimeout` 实现 `setInterval`](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E8%AF%AD%E6%B3%95%E5%92%8CAPI//setinterval.md)
 
+- [掌握 Javascript 提供的正则表达式 API、可以使用正则表达式（邮箱校验、`URL` 解析、 去重等）解决常见问题](/self-examination/Javascript%20%E5%9F%BA%E7%A1%80//%E8%AF%AD%E6%B3%95%E5%92%8CAPI//RegExp.md)
+
 </br>
 
 ## 数据结构与算法
@@ -109,6 +111,6 @@
   
   - [前端工程师的自检清单](https://juejin.cn/post/6844903830887366670)
 
-  - [前端 100 问](https://juejin.cn/post/6844903885488783374)
+- [前端 100 问](https://juejin.cn/post/6844903885488783374)
 
 </samp>
