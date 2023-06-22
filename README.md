@@ -81,6 +81,12 @@
 
 </br>
 
+## HTML 和 CSS
+
+#### HTML
+
+- [从规范的角度理解 HTML，从分类和语义的角度使用标签](/self-examination//HTML%E5%92%8CCSS//HTML//semantic-meaning.md)
+
 ## 数据结构与算法
 
 #### Javascript 编码能力
@@ -109,7 +115,7 @@
 
 <samp>
   
-  - [前端工程师的自检清单](https://juejin.cn/post/6844903830887366670)
+- [前端工程师的自检清单](https://juejin.cn/post/6844903830887366670)
 
 - [前端 100 问](https://juejin.cn/post/6844903885488783374)
 
