@@ -87,6 +87,8 @@
 
 - [从规范的角度理解 HTML，从分类和语义的角度使用标签](/self-examination//HTML%E5%92%8CCSS//HTML//semantic-meaning.md)
 
+- [元信息类标签(`head`、`title`、`meta`) 的使用目的和配置方法](/self-examination//HTML%E5%92%8CCSS//HTML//head-title-meta.md)
+
 </br>
 
 ## 数据结构与算法
