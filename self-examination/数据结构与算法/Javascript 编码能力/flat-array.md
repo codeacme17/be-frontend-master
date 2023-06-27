@@ -1,4 +1,4 @@
-## 实现数组打平
+## 实现数组打平（数组扁平化）
 
 > Reference: [leetcode](https://leetcode.com/problems/flatten-deeply-nested-array/)
 

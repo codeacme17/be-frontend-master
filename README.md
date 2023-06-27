@@ -116,7 +116,9 @@
 
 - [已知数据格式，实现一个函数 `fn` 找出链条中所有的父级 `id`](/advanced-frontend//92.ts)
 
-- [实现数组打平](/self-examination/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95//Javascript%20%E7%BC%96%E7%A0%81%E8%83%BD%E5%8A%9B//flat-array.md)
+- [实现数组打平（数组扁平化）](/self-examination/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95//Javascript%20%E7%BC%96%E7%A0%81%E8%83%BD%E5%8A%9B//flat-array.md)
+
+- [实现一个 `sleep` 函数](/self-examination//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95//Javascript%20%E7%BC%96%E7%A0%81%E8%83%BD%E5%8A%9B//sleep.md)
 
 #### 手动实现前端轮子
 
