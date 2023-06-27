@@ -106,6 +106,8 @@
 
 - [实现一个被迭代的 `object`](/self-examination//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95//Javascript%20%E7%BC%96%E7%A0%81%E8%83%BD%E5%8A%9B//iterator-object.md)
 
+- [多种方式实现深拷贝、对比优缺点](/self-examination//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95//Javascript%20%E7%BC%96%E7%A0%81%E8%83%BD%E5%8A%9B//deep-clone.md)
+
 - [手写防抖和节流工具函数、并理解其内部原理和应用场景](/self-examination//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95//Javascript%20%E7%BC%96%E7%A0%81%E8%83%BD%E5%8A%9B//debounce-throttle.md)
 
 - [实现一个可以控制并发数的 `Promise`](/self-examination//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95//Javascript%20%E7%BC%96%E7%A0%81%E8%83%BD%E5%8A%9B//concurrency-promise.md)
