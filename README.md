@@ -126,6 +126,8 @@
 
 - [手动实现符合 `Promise/A+` 规范的 `Promise`](/self-examination//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95//%E6%89%8B%E5%8A%A8%E5%AE%9E%E7%8E%B0%E5%89%8D%E7%AB%AF%E8%BD%AE%E5%AD%90//promise.md)
 
+- [手写 `JSON.stringify`](/self-examination//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95//%E6%89%8B%E5%8A%A8%E5%AE%9E%E7%8E%B0%E5%89%8D%E7%AB%AF%E8%BD%AE%E5%AD%90//JSON.md)
+
 #### 数据结构
 
 - [理解 `哈希表` 的基本结构和特点](/self-examination//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/hashtable.md)
