@@ -100,6 +100,8 @@
 
 - [BFC 实现原理，可以解决的问题，如何创建 BFC](/self-examination//HTML%E5%92%8CCSS//CSS//BFC.md)
 
+- [CSS 模块化方案、如何配置按需加载、如何防止 CSS 阻塞渲染](/self-examination//HTML%E5%92%8CCSS//CSS//module.md)
+
 </br>
 
 ## 数据结构与算法
