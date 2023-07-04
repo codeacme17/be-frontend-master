@@ -96,6 +96,8 @@
 
 - [CSS 所有选择器及其优先级、使用场景，哪些可以继承，如何运用 at(`@`) 规则](/self-examination//HTML%E5%92%8CCSS//CSS//priority-selector.md)
 
+- [HTML 文档流的排版规则，CSS 几种定位的规则、定位参照物、对文档流的影响，如何选择最好的定位方式，雪碧图实现原理](/self-examination//HTML%E5%92%8CCSS//CSS//positions.md)
+
 - [BFC 实现原理，可以解决的问题，如何创建 BFC](/self-examination//HTML%E5%92%8CCSS//CSS//BFC.md)
 
 </br>
