@@ -16,7 +16,7 @@
 
 - 使用工具库：想 webpack、Parcel、Rollup 等构建工具都提供了相应的插件或配置来实现按需加载 CSS。通过这些工具，可以根据需要动态的引入所需的 CSS 文件
 
-- CSS 预处理器的 `mixins`：如果使用 CSS 预处理器如 SASS 或 LESS, 可以将样式定义为 `mixins`，然后在需要的地方引入，这样只会将使用到的样式编译为最终的 CSS 文件
+- CSS 预处理器的 Mixins：如果使用 CSS 预处理器如 SASS 或 LESS, 可以将样式定义为 Mixins，然后在需要的地方引入，这样只会将使用到的样式编译为最终的 CSS 文件
 
 - 动态加载 CSS：使用 JS 动态创建 `<link>` 标签，将样式表添加到页面中，这样可以根据需要动态的加载所需的 CSS 文件
 
@@ -29,3 +29,60 @@
 - 使用媒体查询：将较大的 CSS 文件拆分为多个文件，并使用媒体查询根据不同的设备和视图条件加载不同的 CSS 文件
 
 - 异步加载 CSS：使用 JS 动态创建 `<link>` 标签，将 CSS 文件添加到页面中，提过将 CSS 文件的加载与页面的渲染分开，可以防止 CSS 阻塞页面的渲染
+
+### 扩展
+
+#### Mixins
+
+在 Sass 中，Mixins（混合）是一种重用样式代码的机制，类似于函数。通过定义和调用 Mixins，可以在样式表中重复使用一组样式规则，提高代码的可维护性和可重用性。下面是对 Sass Mixins 的详细说明：
+
+1. 定义 Mixins：
+   使用 `@mixin` 关键字定义一个 Mixin，并指定一个名称和一组样式规则。示例如下：
+
+   ```scss
+   @mixin button {
+     display: inline-block;
+     padding: 10px 20px;
+     background-color: #f1f1f1;
+     border: 1px solid #ccc;
+     border-radius: 4px;
+     color: #333;
+     text-decoration: none;
+   }
+   ```
+
+   在上述示例中，`button` 是 Mixin 的名称，后面的样式规则组成了 Mixin 的内容。
+
+2. 调用 Mixins：
+   使用 `@include` 关键字来调用 Mixin，并传递适当的参数（如果有的话）。示例如下：
+
+   ```scss
+   .my-button {
+     @include button;
+   }
+   ```
+
+   在上述示例中，`.my-button` 类选择器调用了名为 `button` 的 Mixin，这会将 Mixin 中定义的样式规则应用到 `.my-button` 元素上。
+
+3. 传递参数给 Mixins：
+   Mixins 可以接受参数，以便在调用时根据需要动态修改样式。示例如下：
+
+   ```scss
+   @mixin button($bg-color, $text-color) {
+     display: inline-block;
+     padding: 10px 20px;
+     background-color: $bg-color;
+     border: 1px solid #ccc;
+     border-radius: 4px;
+     color: $text-color;
+     text-decoration: none;
+   }
+
+   .my-button {
+     @include button(#f1f1f1, #333);
+   }
+   ```
+
+   在上述示例中，`button` Mixin 接受两个参数 `$bg-color` 和 `$text-color`，调用时可以传递不同的颜色值来定制按钮的背景色和文本颜色。
+
+Mixins 在 Sass 中非常有用，可以减少重复的样式代码，提高代码的可读性和可维护性。通过定义和调用 Mixins，可以将一组常用的样式规则抽象为可重用的模块，方便在样式表中多次使用，并且可以根据需要传递参数来动态修改样式。这使得样式的定义更加灵活和可定制化
