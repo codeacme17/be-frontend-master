@@ -112,6 +112,8 @@
 
 - [如何将 Javascript 代码解析成抽象语法树(AST)](/self-examination//%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80//%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86//AST.md)
 
+- [Base64 的编码原理](/self-examination//%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80//%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86//base64.md)
+
 #### 网络协议
 
 - [理解什么是协议，了解 TCP/IP 网络协议族的构成，每层协议在应用程序中发挥的作用](/self-examination//%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80//%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/TCPIP.md)
