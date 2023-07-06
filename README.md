@@ -120,6 +120,8 @@
 
 - [三次握手和四次挥手详细原理，为什么要使用这种机制](/self-examination/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80//%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE//shake-hand.md)
 
+- [CDN 的作用和原理](/self-examination//%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80//%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/CDN.md)
+
 </br>
 
 ## 数据结构与算法
