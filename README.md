@@ -126,6 +126,8 @@
 
 - [HTTP 请求报文和响应报文的具体组成，能理解常见请求头的含义，有几种请求方式，区别是什么](/self-examination//%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80//%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE//HTTP-method.md)
 
+- [HTTP 所有状态码的具体含义，看到异常状态码能快速定位问题](/self-examination//%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80//%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE//HTTP-status-code.md)
+
 </br>
 
 ## 数据结构与算法
