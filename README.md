@@ -164,6 +164,14 @@
 
 </br>
 
+## 框架和类库
+
+#### React
+
+- [虚拟 DOM 是否真的比操作原生 DOM 快](/self-examination//%E6%A1%86%E6%9E%B6%E5%92%8C%E7%B1%BB%E5%BA%93/%20react//virtualDOM-DOM.md)
+
+</br>
+
 ## 引用
 
 <samp>
