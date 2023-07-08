@@ -172,6 +172,8 @@
 
 - [可详细描述浏览器从输入 URL 到页面展现的详细过程](/self-examination/%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83//%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8E%9F%E7%90%86//input-url.md)
 
+- [深入理解浏览器的缓存机制](/self-examination//%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83//%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8E%9F%E7%90%86//cache.md)
+
 </br>
 
 ## 框架和类库
