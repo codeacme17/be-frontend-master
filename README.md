@@ -164,6 +164,8 @@
 
 - [理解 `哈希表` 的基本结构和特点](/self-examination//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/hashtable.md)
 
+- [理解数组、字符串的存储原理，并熟练应用他们解决问题](/self-examination//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84//array-string.md)
+
 </br>
 
 ## 运行环境
