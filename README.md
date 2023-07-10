@@ -184,7 +184,11 @@
 
 #### React
 
-- [虚拟 DOM 是否真的比操作原生 DOM 快](/self-examination//%E6%A1%86%E6%9E%B6%E5%92%8C%E7%B1%BB%E5%BA%93/%20react//virtualDOM-DOM.md)
+- [虚拟 DOM 是否真的比操作原生 DOM 快](/self-examination//%E6%A1%86%E6%9E%B6%E5%92%8C%E7%B1%BB%E5%BA%93/react//virtualDOM-DOM.md)
+
+#### Vue
+
+- [手写实现 `computed` 函数](/self-examination//框架和类库//vue//computed.md)
 
 </br>
 
