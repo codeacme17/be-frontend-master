@@ -110,6 +110,8 @@
 
 #### 编译原理
 
+- [正则表达式的匹配原理和性能优化](/self-examination//计算机基础//编译原理//regexp.md)
+
 - [如何将 Javascript 代码解析成抽象语法树(AST)](/self-examination//%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80//%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86//AST.md)
 
 - [Base64 的编码原理](/self-examination//%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80//%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86//base64.md)
