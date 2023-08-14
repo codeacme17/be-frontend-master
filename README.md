@@ -90,6 +90,8 @@
 
 - [元信息类标签(`head`、`title`、`meta`) 的使用目的和配置方法](/self-examination//HTML%E5%92%8CCSS//HTML//head-title-meta.md)
 
+- [`HTML5` 离线缓存原理](/self-examination//HTML和CSS//HTML//offline-cache.md)
+
 #### CSS
 
 - [了解 CSS 盒模型，在不同浏览器的差异](/self-examination//HTML%E5%92%8CCSS//CSS//box-model.md)
