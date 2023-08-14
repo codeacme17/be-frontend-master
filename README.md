@@ -180,6 +180,8 @@
 
 - [深入理解浏览器的缓存机制](/self-examination//%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83//%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8E%9F%E7%90%86//cache.md)
 
+- [浏览器解析 HTML 代码的原理，以及构建 DOM 树的流程](/self-examination//运行环境//浏览器原理//parse-html.md)
+
 #### Node
 
 - [掌握一种 Node 开发框架，如 Express、Koa，并了解两者的区别](/self-examination//%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83//Nodejs//express-koa.md)
