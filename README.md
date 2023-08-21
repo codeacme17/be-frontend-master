@@ -104,6 +104,8 @@
 
 - [CSS 模块化方案、如何配置按需加载、如何防止 CSS 阻塞渲染](/self-examination//HTML%E5%92%8CCSS//CSS//module.md)
 
+- [了解并实现常用布局（三栏、圣杯、双飞翼、吸顶）](/self-examination//HTML和CSS//CSS//layout.md)
+
 </br>
 
 ## 计算机基础
