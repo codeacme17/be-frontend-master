@@ -1,59 +1,64 @@
 ## Javascript 如何实现异步编程，可以详细描述 `EventLoop` 机制
 
 ### 如何实现异步编程
+
 在 Javascript 中有多种实现异步编程的方法
 
 #### 回调函数
+
 通过定义一个回调函数，在异步操作完成时进行回调处理。异步函数接受一个回调函数作为参数，在操作完成后调用该回调函数
 
 ```js
 function asyncOperation(callback) {
-  setTimeout(function() {
+  setTimeout(function () {
     // 模拟异步操作
-    const result = 42;
-    callback(result);
-  }, 1000);
+    const result = 42
+    callback(result)
+  }, 1000)
 }
 
 function handleResult(result) {
-  console.log('Result:', result);
+  console.log('Result:', result)
 }
 
-asyncOperation(handleResult);
+asyncOperation(handleResult)
 ```
 
 #### Promise
+
 Promise 是一种更现代化的异步编程模式，它提供了一种更清晰、可组合的方式来处理异步操作。`Promise` 表示一个异步操作的最终结果，可以通过 `.then()` 方法来处理操作成功的情况，通过 `.catch()` 方法来处理操作失败的情况
 
 ```js
 function asyncOperation() {
-  return new Promise(function(resolve, reject) {
-      const result = 42;
-      resolve(result); // 操作成功
-  });
+  return new Promise(function (resolve, reject) {
+    const result = 42
+    resolve(result) // 操作成功
+  })
 }
 
 asyncOperation()
-  .then(function(result) {
-    console.log('Result:', result);
+  .then(function (result) {
+    console.log('Result:', result)
   })
-  .catch(function(error) {
-    console.error('Error:', error);
-  });
+  .catch(function (error) {
+    console.error('Error:', error)
+  })
 ```
 
 #### Async/Await
-是一种基于 Promise 的语法糖，它使异步代码开起来更像是同步代码，更易于编写和阅读。`async` 关键字用于定义一个异步函数，`await` 关键字用于等待一个返回 Promise 的异步操作完成
+
+是一种基于 Promise 的语法糖，它使异步代码开起来更像是同步代码，更易于编写和阅读。`async` 关键字用于定义一个异步函数，`await` 关键字用于等待一个返回 Promise 的异步操作完成。其底层是通过 `Generate` 函数实现的
 
 #### 其他
+
 除了以上方法，还有其他方式如事件监听、生成器函数等可以用于实现异步编程。选择哪种方法取决于具体的需求和编程风格
 
-
 ### `Eventloop` 执行机制
+
 `Eventloop`（事件循环）是 Javascript 异步编程的核心机制之一，它负责处理异步任务的执行顺序和事件的分发
 
-
 #### 大致执行步骤
+
 1. 执行同步代码：首先，JavaScript 引擎会执行当前的同步代码，按照顺序逐行执行，直到遇到异步操作。
 
 2. 将异步操作交给异步环境：当遇到异步操作（如定时器、网络请求等），JavaScript 引擎会将其交给异步环境处理。异步环境通常是由宿主环境（如浏览器或 Node.js）提供的，它们负责处理异步任务的执行。
