@@ -80,6 +80,8 @@
 
 - [掌握 Javascript 提供的正则表达式 API、可以使用正则表达式（邮箱校验、`URL` 解析、 去重等）解决常见问题](/self-examination/Javascript%20%E5%9F%BA%E7%A1%80//%E8%AF%AD%E6%B3%95%E5%92%8CAPI//RegExp.md)
 
+- [Javascript 异常处理的方式，统一的异常处理方案](/self-examination/Javascript%20基础/语法和API/Error-handler.md)
+
 </br>
 
 ## HTML 和 CSS
