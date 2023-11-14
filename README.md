@@ -20,6 +20,8 @@
 
 - [Javascript 中的变量在内存中的具体存储形式](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/variable.md)
 
+- [为什么要将基本类型存储在栈内存中，而将引用类型存储在堆内存](/self-examination/Javascript%20基础/变量和类型/stack-heap.md)
+
 - [基本类型对应的内置对象，以及他们之间的装箱拆箱操作](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/variable-object.md)
 
 - [`null` 和 `undefined`的区别](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/null%26undefined.md)
