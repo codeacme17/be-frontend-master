@@ -24,7 +24,7 @@ const Person = function(name) {
 }
 
 // 原型对象
-person.prototype.getName = function() {
+Person.prototype.getName = function() {
   return this.name
 }
 
