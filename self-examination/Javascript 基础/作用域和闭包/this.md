@@ -2,18 +2,96 @@
 
 在 JS 中，`this` 关键字用于表示当前函数执行时的上下文对象，具体而言，`this` 的值取决于函数调用时的情况，通常有以下几种取值情况
 
-- 默认绑定：独立函数调用时，`this` 指向全局对象或 `undefined`(严格模式下)
+- 全局上下文
 
-- 隐式绑定：作为对象的方法调用时，`this` 指向该对象
+  在全局执行上下文（在任何函数外部）中，`this` 引用全局对象，在浏览器中，它通常是 `window` 对象
 
-- 显式绑定：使用 `bind()`、`call()`、`apply()` 方法时，`this` 指向传入的对象
+  ```js
+  console.log(this === window) // true
+  ```
 
-- `new` 绑定：作为构造函数调用时，`this` 指向新创建的对象
+- 函数上下文
 
-- 箭头函数绑定：箭头函数没有 `this` 绑定，它们的 `this` 值由定义它们的上下文决定
+  - 普通函数调用
 
-在函数调用时，JS 引擎会根据上述规则确定 `this` 的值，这种确定方式和执行上下文息息相关，执行上下文中的 `this` 值会在函数执行时被绑定到对应的值上
+    在普通函数中，`this` 的值取决于如何调用该函数。如果它不是作为对象的方法调用，`this` 通常指向全局对象（在严格模式下是 `undefined`）
 
-### 特殊情况
+    ```js
+    function fun() {
+      return this
+    }
 
-除了以上几种情况，还有一些特殊的情况，例如 DOM 事件处理函数中的 `this` 指向触发事件的 DOM 元素，以及在 `setTimeout` 和 `setInterval` 中的 `this` 指向全局对象
+    fun() // 在非严格模式下，这将返回全局对象
+    ```
+
+  - 方法调用
+
+    当函数作为对象的方法被调用时， `this` 指向该方法所属的对象
+
+    ```js
+    const obj = {
+      method() {
+        return this
+      },
+    }
+
+    obj.method() // 这里指向的是 `obj`
+    ```
+
+- 构造函数
+
+  在使用 `new` 关键字调用构造函数时， `this` 指向新创建的对象
+
+  ```js
+  function Constructor() {
+    this.property = 'value'
+  }
+
+  const c = new Constructor()
+  console.log(c.property) // 'value'
+  ```
+
+- 箭头函数
+
+  在箭头函数中， `this` 被词法地绑定到它被创建时的上下文，这意味着箭头函数不会创建自己的 `this` 值，它只是从自己的作用域链继承 `this`
+
+  ```js
+  const obj = {
+    method: () => {
+      return this
+    },
+  }
+
+  obj.method() // 在浏览器中，该值为 `window`
+  ```
+
+- 显式绑定
+
+  使用 `call` 、 `apply` 或 `bind` 方法可以显式设置 `this` 值
+
+  - `call` 和 `apply` 方法在调用函数的同时，允许将一个对象作为 `this` 的值传入
+
+  ```js
+  function fn() {
+    console.log(this)
+  }
+  const obj = {
+    p: 'value',
+  }
+
+  fn.call(obj) // 指向了 `obj` 所以打印 `{ p：'value' }`
+  ```
+
+  - `bind` 方法创建一个新的函数，它的 `this` 被绑定到指定的对象
+
+  ```js
+  function fn() {
+    console.log(this)
+  }
+
+  const obj = {}  const obj = {
+    p: 'value',
+  }
+  const boundFn = fn.bind(obj)
+  boundFn() // 这里 this 指向了 `obj` 所以打印 `{ p：'value' }`
+  ```
