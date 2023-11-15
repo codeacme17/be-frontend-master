@@ -1,6 +1,6 @@
 ## 了解 Javascript 的编译时和运行时
 
-Javascript 的执行过程可以分为编阶段(compile-parse) 和运行时阶段(runtime-parse)
+Javascript 的执行过程可以分为编阶段(compile-phase) 和运行时阶段(runtime-phase)
 
 ### 编译阶段
 
