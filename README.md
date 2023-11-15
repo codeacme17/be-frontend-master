@@ -48,6 +48,8 @@
 
 - [理解 Javascript 中的执行上下文栈，可以应用堆栈信息快速定位问题](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//context-stack.md)
 
+- [理解暂时性死区](/self-examination/Javascript%20基础/作用域和闭包/TDZ.md)
+
 - [`this` 的原理以及几种不同使用场景的取值](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//this.md)
 
 - [闭包的实现原理和作用，可以列举几个开发中闭包的实际应用](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//closure.md)
