@@ -1,11 +1,7 @@
-<br />
-<br />
 <samp>
-  <h3>SELF-EXAMINATION BECOMES A FRONTEND MASTER ✨</h3>  
-  <strong>自省-成为前端大师</strong>
+  <h1>SELF-EXAMINATION BECOMES A FRONTEND MASTER ✨</h1>  
+  <h3>自省-成为前端大师</h3>
 </samp>
-<br />
-<br />
 <br />
 
 ## Javascript 基础
