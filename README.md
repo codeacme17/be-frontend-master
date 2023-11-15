@@ -58,6 +58,8 @@
 
 #### 执行机制
 
+- [了解 Javascript 的编译时和运行时](/self-examination/Javascript%20基础/执行机制/compile&runtime.md)
+
 - [为何 `try` 里面放 `return`，`finally` 还会执行，理解其内部机制](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E6%89%A7%E8%A1%8C%E6%9C%BA%E5%88%B6//try-finally.md)
 
 - [Javascript 如何实现异步编程，可以详细描述 `EventLoop` 机制](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E6%89%A7%E8%A1%8C%E6%9C%BA%E5%88%B6//eventloop.md)
