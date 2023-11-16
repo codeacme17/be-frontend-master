@@ -1,7 +1,6 @@
 
 ![DALL·E 2023-11-16 11 14 05 - A minimalist and flat design background with a modern and clean look, featuring the stylized text 'SELF-EXAMINATION BECOMES A FRONTEND MASTER' in the ](https://github.com/codeacme17/be-frontend-master/assets/67408722/5440387d-0398-4308-afdc-8732cae5d48b)
 
-<br />
 <h2>SELF-EXAMINATION BECOMES A FRONTEND MASTER ✨</h2>  
 <h3>自省-成为前端大师</h3>
 
@@ -38,7 +37,7 @@
 
 ## Javascript 基础
 
-#### 变量和类型
+### 变量和类型
 
 - [Javascript 规定了几种语言类型](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80/%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B/type.md)
 
@@ -58,7 +57,7 @@
 
 - [理解 `Map`、`WeakMap`、`Set`、`WeakSet` 的区别](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E5%8F%98%E9%87%8F%E5%92%8C%E7%B1%BB%E5%9E%8B//map-weakmap.md)
 
-#### 原型和原型链
+### 原型和原型链
 
 - [理解原型设计模式以及 Javascript 中的原型规则](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE/prototype.md)
 
@@ -72,7 +71,7 @@
 
 - [理解 ES6 `class` 构造以及继承的底层实现原理](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE//class-in-es6.md)
 
-#### 作用域和闭包
+### 作用域和闭包
 
 - [理解词法作用域和动态作用域](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85//lexical-scope-dynamic-scope.md)
 
@@ -90,7 +89,7 @@
 
 - [如何处理循环的异步操作](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85/async-loop.md)
 
-#### 执行机制
+### 执行机制
 
 - [了解 Javascript 的编译时和运行时](/self-examination/Javascript%20基础/执行机制/compile&runtime.md)
 
@@ -104,7 +103,7 @@
 
 - [`async`/`await` 如何通过同步的方式实现异步](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E6%89%A7%E8%A1%8C%E6%9C%BA%E5%88%B6//async-await.md)
 
-#### 语法和 API
+### 语法和 API
 
 - [理解 ECMAScript 和 Javascript 的关系](/self-examination//Javascript%20%E5%9F%BA%E7%A1%80//%E8%AF%AD%E6%B3%95%E5%92%8CAPI//ECMA-Javascript.md)
 
@@ -120,7 +119,7 @@
 
 ## HTML 和 CSS
 
-#### HTML
+### HTML
 
 - [从规范的角度理解 HTML，从分类和语义的角度使用标签](/self-examination//HTML%E5%92%8CCSS//HTML//semantic-meaning.md)
 
@@ -128,7 +127,7 @@
 
 - [`HTML5` 离线缓存原理](/self-examination//HTML和CSS//HTML//offline-cache.md)
 
-#### CSS
+### CSS
 
 - [了解 CSS 盒模型，在不同浏览器的差异](/self-examination//HTML%E5%92%8CCSS//CSS//box-model.md)
 
@@ -146,7 +145,7 @@
 
 ## 计算机基础
 
-#### 编译原理
+### 编译原理
 
 - [正则表达式的匹配原理和性能优化](/self-examination//计算机基础//编译原理//regexp.md)
 
@@ -154,7 +153,7 @@
 
 - [Base64 的编码原理](/self-examination//%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80//%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86//base64.md)
 
-#### 网络协议
+### 网络协议
 
 - [理解什么是协议，了解 TCP/IP 网络协议族的构成，每层协议在应用程序中发挥的作用](/self-examination//%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80//%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/TCPIP.md)
 
@@ -176,7 +175,7 @@
 
 ## 数据结构与算法
 
-#### Javascript 编码能力
+### Javascript 编码能力
 
 - [多种方式实现数组去重，并对比优缺点](/self-examination//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95//Javascript%20%E7%BC%96%E7%A0%81%E8%83%BD%E5%8A%9B//array-deduplication.md)
 
@@ -194,7 +193,7 @@
 
 - [实现一个 `sleep` 函数](/self-examination//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95//Javascript%20%E7%BC%96%E7%A0%81%E8%83%BD%E5%8A%9B//sleep.md)
 
-#### 手动实现前端轮子
+### 手动实现前端轮子
 
 - [手动实现 `call`、`apply`、`bind`](/self-examination//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E6%89%8B%E5%8A%A8%E5%AE%9E%E7%8E%B0%E5%89%8D%E7%AB%AF%E8%BD%AE%E5%AD%90/call-apply-bind.md)
 
@@ -202,7 +201,7 @@
 
 - [手写 `JSON.stringify`](/self-examination//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95//%E6%89%8B%E5%8A%A8%E5%AE%9E%E7%8E%B0%E5%89%8D%E7%AB%AF%E8%BD%AE%E5%AD%90//JSON.md)
 
-#### 数据结构
+### 数据结构
 
 - [理解 `哈希表` 的基本结构和特点](/self-examination//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/hashtable.md)
 
@@ -212,13 +211,13 @@
 
 ## 运行环境
 
-#### 浏览器 API
+### 浏览器 API
 
 - [浏览器的同源策略，如何避免同源策略，几种方式的异同点以及如何选型](/self-examination//运行环境//浏览器API//same-origin-policy.md)
 
 - [浏览器提供的几种存储机制、优缺点、开发中正确的选择](/self-examination//运行环境/浏览器API/storage.md)
 
-#### 浏览器原理
+### 浏览器原理
 
 - [可详细描述浏览器从输入 URL 到页面展现的详细过程](/self-examination/%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83//%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8E%9F%E7%90%86//input-url.md)
 
@@ -228,7 +227,7 @@
 
 - [浏览器如何解析 CSS 规则，并将其应用到 DOM 树上](/self-examination//运行环境//浏览器原理//parse-css.md)
 
-#### Node
+### Node
 
 - [掌握一种 Node 开发框架，如 Express、Koa，并了解两者的区别](/self-examination//%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83//Nodejs//express-koa.md)
 
@@ -236,15 +235,15 @@
 
 ## 框架和类库
 
-#### React
+### React
 
 - [虚拟 DOM 是否真的比操作原生 DOM 快](/self-examination//%E6%A1%86%E6%9E%B6%E5%92%8C%E7%B1%BB%E5%BA%93/react//virtualDOM-DOM.md)
 
-#### Vue
+### Vue
 
 - [手写实现 `computed` 函数](/self-examination//框架和类库//vue//computed.md)
 
-#### 多端开发
+### 多端开发
 
 - [理解 Viewport、`em`、`rem` 的原理和用法，分辨率、`px`、`ppi`、`dpi`、`dp` 的区别和实际应用](/self-examination//框架和类库//多端开发//viewport.md)
 
