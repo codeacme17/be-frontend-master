@@ -1,5 +1,7 @@
 ## Javascript 如何实现异步编程，可以详细描述 `EventLoop` 机制
 
+> Reference: [MDN: The event loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
+
 Javascript 是一种单线程语言，这意味着它一次只能执行一个任务。为了处理耗时的任务而不阻塞主进程，Javascript 提供了异步编程的能力。异步编程允许代码在等待异步操作（如 I/O、网络请求等）完成的同时，继续执行后续任务。Javascript 实现异步编程的主要机制包括回调函数、Promises、async/await 以及事件循环（Event Loop）
 
 ### 异步编程的方法
@@ -75,3 +77,45 @@ Javascript 是一种单线程语言，这意味着它一次只能执行一个任
   9. 返回步骤 6
 
      事件循环将返回到检查任务队列的步骤，如果有更多同步代码要执行，则继续执行它们，否则检查任务队列
+
+- 案例
+
+  ```js
+  console.log('start')
+
+  setTimeout(() => {
+    console.log('time out')
+  }, 100)
+  ```
+
+  1. 执行全局代码
+
+     当这段脚本开始执行时，首先执行的是全局代码， `console.log('start')` 是同步执行的代码，因此会被立即执行
+
+  2. 设置 `setTimeout`
+
+     接下来遇到 `setTimeout` 函数，这个函数调用告诉 Javascript 引擎：在至少 100 毫秒执行回调函数。此时，Javascript 引擎会把这个定时器的任务交给宿主环境（浏览器或 Node.js），由它来计时。`setTimeout` 本身是非阻塞的，因此设置定时器后，代码会继续执行
+
+  3. 继续执行同步代码
+
+     在上述例子中， `setTimeout` 后没有更多的同步代码，所以 Javascript 引擎完成了全局代码的执行
+
+  4. 等待定时器
+
+     宿主环境等待至少 100 毫秒，这个等待发生在后台，与 Javascript 引擎的主线程不再同一执行环境
+
+  5. 定时器事件到达
+
+     一旦 100 毫秒的时间到达，宿主环境会把 `setTimeout` 的回调函数放入任务队列（Task Queue）
+
+  6. 事件循环
+
+     事件循环负责监视调用栈和任务队列，如果调用栈为空，事件循环会从任务队列中取出任务放入调用栈中执行
+
+  7. 执行 `setTimeout` 的回调
+
+     当事件循环将 `setTimeout` 的回调函数放入调用栈，此时 Javascript 一你请执行回调函数，回调函数执行时输出 `'time out'`
+
+  8. 完成执行
+
+     一旦 `setTimeout` 的回调函数执行完成，事件循环会继续监视任务队列，看是否有更多的任务要执行。在这个例子中，执行完 `setTimeout` 的回调后，没有更多任务，因此脚本执行结束
