@@ -1,3 +1,7 @@
+
+![DALL·E 2023-11-16 11 14 05 - A minimalist and flat design background with a modern and clean look, featuring the stylized text 'SELF-EXAMINATION BECOMES A FRONTEND MASTER' in the ](https://github.com/codeacme17/be-frontend-master/assets/67408722/5440387d-0398-4308-afdc-8732cae5d48b)
+
+<br />
 <h2>SELF-EXAMINATION BECOMES A FRONTEND MASTER ✨</h2>  
 <h3>自省-成为前端大师</h3>
 
