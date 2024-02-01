@@ -1,4 +1,3 @@
-
 ![DALL·E 2023-11-16 11 14 05 - A minimalist and flat design background with a modern and clean look, featuring the stylized text 'SELF-EXAMINATION BECOMES A FRONTEND MASTER' in the ](https://github.com/codeacme17/be-frontend-master/assets/67408722/5440387d-0398-4308-afdc-8732cae5d48b)
 
 <h2>SELF-EXAMINATION BECOMES A FRONTEND MASTER ✨</h2>  
@@ -9,31 +8,30 @@
 ## 目录
 
 - [Javascript 基础](#javascript-基础)
-  * [变量和类型](#变量和类型)
-  * [原型和原型链](#原型和原型链)
-  * [作用域和闭包](#作用域和闭包)
-  * [执行机制](#执行机制)
-  * [语法和 API](#语法和-api)
+  - [变量和类型](#变量和类型)
+  - [原型和原型链](#原型和原型链)
+  - [作用域和闭包](#作用域和闭包)
+  - [执行机制](#执行机制)
+  - [语法和 API](#语法和-api)
 - [HTML 和 CSS](#html-和-css)
-  * [HTML](#html)
-  * [CSS](#css)
+  - [HTML](#html)
+  - [CSS](#css)
 - [计算机基础](#计算机基础)
-  * [编译原理](#编译原理)
-  * [网络协议](#网络协议)
+  - [编译原理](#编译原理)
+  - [网络协议](#网络协议)
 - [数据结构与算法](#数据结构与算法)
-  * [Javascript 编码能力](#javascript-编码能力)
-  * [手动实现前端轮子](#手动实现前端轮子)
-  * [数据结构](#数据结构)
+  - [Javascript 编码能力](#javascript-编码能力)
+  - [手动实现前端轮子](#手动实现前端轮子)
+  - [数据结构](#数据结构)
 - [运行环境](#运行环境)
-  * [浏览器 API](#浏览器-api)
-  * [浏览器原理](#浏览器原理)
-  * [Node](#node)
+  - [浏览器 API](#浏览器-api)
+  - [浏览器原理](#浏览器原理)
+  - [Node](#node)
 - [框架和类库](#框架和类库)
-  * [React](#react)
-  * [Vue](#vue)
-  * [多端开发](#多端开发)
+  - [React](#react)
+  - [Vue](#vue)
+  - [多端开发](#多端开发)
 - [引用](#引用)
-
 
 ## Javascript 基础
 
@@ -192,6 +190,8 @@
 - [实现数组打平（数组扁平化）](/self-examination/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95//Javascript%20%E7%BC%96%E7%A0%81%E8%83%BD%E5%8A%9B//flat-array.md)
 
 - [实现一个 `sleep` 函数](/self-examination//%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95//Javascript%20%E7%BC%96%E7%A0%81%E8%83%BD%E5%8A%9B//sleep.md)
+
+- [`['1','2','3'].map(parseInt)` 结果和原因](/self-examination//数据结构与算法//Javascript%20编码能力//map-parseInt.md)
 
 ### 手动实现前端轮子
 
