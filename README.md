@@ -245,6 +245,8 @@
 
 - [React 父组件 `props` 变化的时候子组件怎么监听](/self-examination/框架和类库//react//props-listen.md)
 
+- [什么是高阶组件，受控组件，非受控组件](/self-examination//框架和类库//react//HOC-component.md)
+
 ### Vue
 
 - [手写实现 `computed` 函数](/self-examination//框架和类库//vue//computed.md)
