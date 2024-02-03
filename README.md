@@ -243,6 +243,8 @@
 
 - [理解 React 中 `onClick` 绑定后的工作原理](/self-examination//框架和类库//react//onclick.md)
 
+- [React 父组件 `props` 变化的时候子组件怎么监听](/self-examination/框架和类库//react//props-listen.md)
+
 ### Vue
 
 - [手写实现 `computed` 函数](/self-examination//框架和类库//vue//computed.md)
