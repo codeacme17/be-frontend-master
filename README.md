@@ -249,6 +249,8 @@
 
 - [`useEffect` 能完全模拟 `componentDidUpdate` 么？](/self-examination/框架和类库/react/useEffect-componentDidUpdate.md)
 
+- [React 的事件底层实现机制](/self-examination/框架和类库/react/event.md)
+
 ### Vue
 
 - [手写实现 `computed` 函数](/self-examination//框架和类库//vue//computed.md)
