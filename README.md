@@ -247,6 +247,8 @@
 
 - [什么是高阶组件，受控组件，非受控组件](/self-examination//框架和类库//react//HOC-component.md)
 
+- [`useEffect` 能完全模拟 `componentDidUpdate` 么？](/self-examination/框架和类库/react/useEffect-componentDidUpdate.md)
+
 ### Vue
 
 - [手写实现 `computed` 函数](/self-examination//框架和类库//vue//computed.md)
