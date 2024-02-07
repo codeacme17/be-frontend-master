@@ -260,6 +260,8 @@
 
 - [Webpack 中 loader 的作用，有哪些常见的 loader](/self-examination/框架和类库/webpack/loader.md)
 
+- [Webpack 中 plugin 的作用，有哪些常见的 plugin](/self-examination/框架和类库/webpack/loader.md)
+
 ### 多端开发
 
 - [理解 Viewport、`em`、`rem` 的原理和用法，分辨率、`px`、`ppi`、`dpi`、`dp` 的区别和实际应用](/self-examination//框架和类库//多端开发//viewport.md)
