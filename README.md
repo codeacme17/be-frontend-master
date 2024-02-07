@@ -260,7 +260,9 @@
 
 - [Webpack 中 loader 的作用，有哪些常见的 loader](/self-examination/框架和类库/webpack/loader.md)
 
-- [Webpack 中 plugin 的作用，有哪些常见的 plugin](/self-examination/框架和类库/webpack/loader.md)
+- [Webpack 中 plugin 的作用，有哪些常见的 plugin](/self-examination/框架和类库/webpack/plugin.md)
+
+- [loader 与 plugin 的不同是什么](/self-examination/框架和类库/webpack/different-loader-plugin.md)
 
 ### 多端开发
 
