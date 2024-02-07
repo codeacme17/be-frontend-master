@@ -264,6 +264,8 @@
 
 - [loader 与 plugin 的不同是什么](/self-examination/框架和类库/webpack/different-loader-plugin.md)
 
+- [Webpack proxy 的工作原理，为什么可以解决跨域问题](/self-examination/框架和类库/webpack/proxy.md)
+
 ### 多端开发
 
 - [理解 Viewport、`em`、`rem` 的原理和用法，分辨率、`px`、`ppi`、`dpi`、`dp` 的区别和实际应用](/self-examination//框架和类库//多端开发//viewport.md)
