@@ -128,6 +128,8 @@
 
 - [`HTML5` 离线缓存原理](/self-examination//HTML和CSS//HTML//offline-cache.md)
 
+- [attribute 和 property 的区别是什么](/self-examination/HTML和CSS/HTML/attribute-property.md)
+
 ### CSS
 
 - [了解 CSS 盒模型，在不同浏览器的差异](/self-examination//HTML%E5%92%8CCSS//CSS//box-model.md)
