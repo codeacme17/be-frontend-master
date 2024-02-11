@@ -132,6 +132,8 @@
 
 - [attribute 和 property 的区别是什么](/self-examination/HTML和CSS/HTML/attribute-property.md)
 
+- [使用 `data-` 属性的好处](/self-examination/HTML和CSS/HTML/data.md)
+
 ### CSS
 
 - [了解 CSS 盒模型，在不同浏览器的差异](/self-examination//HTML%E5%92%8CCSS//CSS//box-model.md)
