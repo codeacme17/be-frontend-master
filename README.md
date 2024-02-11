@@ -232,6 +232,8 @@
 
 - [浏览器如何解析 CSS 规则，并将其应用到 DOM 树上](/self-examination//运行环境//浏览器原理//parse-css.md)
 
+- [浏览器的标准模式和怪异模式](/self-examination/运行环境/浏览器原理/standard-quirk.md)
+
 ### Node
 
 - [掌握一种 Node 开发框架，如 Express、Koa，并了解两者的区别](/self-examination//%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83//Nodejs//express-koa.md)
