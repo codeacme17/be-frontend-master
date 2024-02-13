@@ -1,4 +1,4 @@
-## `setInterval` 需要注意的点，使用 `settimeout` 实现 `setInterval`
+## `setInterval` 需要注意的点，使用 `setTimeout` 实现 `setInterval`
 
 ### `setInterval` 注意点
 
@@ -21,9 +21,11 @@
 ### 使用 `settimeout` 实现 `setInterval`
 
 #### 方向
+
 `setInterval` 是周期性地重复执行一个函数，而 `setTimeout` 只会在指定的延迟之后执行一次函数，但可以在 `setTimeout` 的回调函数中再次调用 `setTimeout` 来实现周期性执行
 
 #### 代码
+
 ```js
 function _setInterval(callback, delay) {
   function interval() {
