@@ -242,6 +242,8 @@
 
 - [浏览器如何解析 CSS 规则，并将其应用到 DOM 树上](/self-examination//运行环境//浏览器原理//parse-css.md)
 
+- [document `load` 和 document `DOMContentLoaded` 两个事件的区别](/self-examination/运行环境/浏览器原理/load-DOMContentLoaded.md)
+
 - [浏览器的标准模式和怪异模式](/self-examination/运行环境/浏览器原理/standard-quirk.md)
 
 ### Node
