@@ -230,11 +230,15 @@
 
 - [浏览器提供的几种存储机制、优缺点、开发中正确的选择](/self-examination//运行环境/浏览器API/storage.md)
 
+- [浏览器事件流模型都有什么](/self-examination/运行环境/浏览器原理/event-stream.md)
+
 - [原生事件绑定（跨浏览器），dom0 和 dom2 的区别](/self-examination/运行环境/浏览器API/dom0-dom2.md)
 
 - [DOM 事件中 `target` 和 `currentTarget` 的区别](/self-examination/运行环境/浏览器API/target-currentTarget.md)
 
 - [Web 端 cookie 的获取和设置](/self-examination/运行环境/浏览器API/cookie.md)
+
+- [说说 `navigation`、`location` 和 `history` 对象](/self-examination/运行环境/浏览器API/navigation-location-history.md)
 
 ### 浏览器原理
 
@@ -251,8 +255,6 @@
 - [浏览器的标准模式和怪异模式](/self-examination/运行环境/浏览器原理/standard-quirk.md)
 
 - [什么是 `"use strict"`，以及好处和坏处](/self-examination/运行环境/浏览器原理/use-strict.md)
-
-- [浏览器事件流模型都有什么](/self-examination/运行环境/浏览器原理/event-stream.md)
 
 ### Node
 
