@@ -252,6 +252,8 @@
 
 - [什么是 `"use strict"`，以及好处和坏处](/self-examination/运行环境/浏览器原理/use-strict.md)
 
+- [浏览器事件流模型都有什么](/self-examination/运行环境/浏览器原理/event-stream.md)
+
 ### Node
 
 - [掌握一种 Node 开发框架，如 Express、Koa，并了解两者的区别](/self-examination//%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83//Nodejs//express-koa.md)
