@@ -6,14 +6,14 @@
 
 ```js
 function Car(make, model, year) {
-  this.make = make;
-  this.model = model;
-  this.year = year;
+  this.make = make
+  this.model = model
+  this.year = year
 }
 
-const car1 = new Car('Eagle', 'Talon TSi', 1993);
+const car1 = new Car('Eagle', 'Talon TSi', 1993)
 
-console.log(car1.make); // "Eagle"
+console.log(car1.make) // "Eagle"
 ```
 
 ### 过程
@@ -22,10 +22,9 @@ console.log(car1.make); // "Eagle"
 
 2. 将该对象的隐式原型 `__proto__` 指向 `new` 右侧的构造函数的显式原型 `prototype` 上
 
-3. 改变构造函数的 `this` 指向，将其指向创建的对象上
+3. 将这个空对象作为 `this` 上下文调用构造函数，以便可以在构造函数中为新对象添加属性和方法
 
 4. 如果该构造函数没有返回对象，则返回 `obj`
-
 
 ### 手动实现
 
@@ -34,6 +33,6 @@ function _new(constructor, ...argus) {
   const obj = {} // 1
   obj.__proto__ = constructor.prototype // 2
   const res = constructor.apply(obj, argus) // 3
-  return typeof res === "object" ? res : obj // 4 
+  return typeof res === 'object' ? res : obj // 4
 }
 ```
