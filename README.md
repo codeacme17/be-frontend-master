@@ -184,6 +184,8 @@
 
 - [理解 WebSocket 协议的底层原理、与 HTTP 的区别](/self-examination//计算机基础//网络协议//socket-http.md)
 
+- [SSE 的原理和如何使用](/self-examination/计算机基础/网络协议/SSE.md)
+
 </br>
 
 ## 数据结构与算法
