@@ -288,6 +288,8 @@
 
 ### Vue
 
+- [Vue Router 和 React Router 的原理，为什么有了 Hash 模式还需要 History](/self-examination/框架和类库/vue/router.md)
+
 - [手写实现 `computed` 函数](/self-examination//框架和类库//vue//computed.md)
 
 ### Webpack
