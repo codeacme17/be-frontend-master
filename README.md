@@ -130,6 +130,8 @@
 
 - [元信息类标签(`head`、`title`、`meta`) 的使用目的和配置方法](/self-examination//HTML%E5%92%8CCSS//HTML//head-title-meta.md)
 
+- [了解 `prefetch`、`preload` 的使用方式和功能](/self-examination/HTML和CSS/HTML/prefecth-preload.md)
+
 - [`HTML5` 离线缓存原理](/self-examination//HTML和CSS//HTML//offline-cache.md)
 
 - [attribute 和 property 的区别是什么](/self-examination/HTML和CSS/HTML/attribute-property.md)
