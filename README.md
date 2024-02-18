@@ -286,6 +286,8 @@
 
 - [React 的事件底层实现机制](/self-examination/框架和类库/react/event.md)
 
+- [hook 为什么不能出现在控制语句中？为什么要用链表或数组，用其他的数据结构不行么](/self-examination/框架和类库/react/hook-control.md)
+
 ### Vue
 
 - [Vue Router 和 React Router 的原理，为什么有了 Hash 模式还需要 History](/self-examination/框架和类库/vue/router.md)
