@@ -140,6 +140,8 @@
 
 - [CSS 和 Javascript 引入放在 HTML 的位置及原因](/self-examination/HTML和CSS/HTML/CSS-JS-position.md)
 
+- [请说说 Canvas 和 SVG 的区别](/self-examination/HTML和CSS/HTML/canvas-svg.md)
+
 ### CSS
 
 - [了解 CSS 盒模型，在不同浏览器的差异](/self-examination//HTML%E5%92%8CCSS//CSS//box-model.md)
