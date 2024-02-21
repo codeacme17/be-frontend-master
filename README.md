@@ -186,6 +186,8 @@
 
 - [HTTP/1.1、HTTP/2 带来的改变](/self-examination//%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80//%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE//HTTP1.1-HTTP2.0.md)
 
+- [了解 HTTPS 协议和原理](/self-examination/计算机基础/网络协议/https.md)
+
 - [理解 WebSocket 协议的底层原理、与 HTTP 的区别](/self-examination//计算机基础//网络协议//socket-http.md)
 
 - [SSE 的原理和如何使用](/self-examination/计算机基础/网络协议/SSE.md)
