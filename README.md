@@ -140,6 +140,8 @@
 
 - [CSS 和 Javascript 引入放在 HTML 的位置及原因](/self-examination/HTML和CSS/HTML/CSS-JS-position.md)
 
+- [请说说 Canvas 和 SVG 的区别](/self-examination/HTML和CSS/HTML/canvas-svg.md)
+
 ### CSS
 
 - [了解 CSS 盒模型，在不同浏览器的差异](/self-examination//HTML%E5%92%8CCSS//CSS//box-model.md)
@@ -290,7 +292,11 @@
 
 - [hook 为什么不能出现在控制语句中？为什么要用链表或数组，用其他的数据结构不行么](/self-examination/框架和类库/react/hook-control.md)
 
+- [`useEffect` 与 `useLayoutEffect` 的区别](/self-examination/框架和类库/react/useEffect-useLayoutEffect.md)
+
 ### Vue
+
+- [说一说 Vue 和 React 的区别](/self-examination/框架和类库/vue/vue-react.md)
 
 - [Vue Router 和 React Router 的原理，为什么有了 Hash 模式还需要 History](/self-examination/框架和类库/vue/router.md)
 
