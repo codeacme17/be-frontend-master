@@ -282,6 +282,10 @@
 
 - [虚拟 DOM 是否真的比操作原生 DOM 快](/self-examination//%E6%A1%86%E6%9E%B6%E5%92%8C%E7%B1%BB%E5%BA%93/react//virtualDOM-DOM.md)
 
+- [React 中的 DOM 更新策略](/self-examination/框架和类库/react/dom-update.md)
+
+- [React 的事件底层实现机制](/self-examination/框架和类库/react/event.md)
+
 - [理解 React 中 `onClick` 绑定后的工作原理](/self-examination//框架和类库//react//onclick.md)
 
 - [React 父组件 `props` 变化的时候子组件怎么监听](/self-examination/框架和类库//react//props-listen.md)
@@ -289,8 +293,6 @@
 - [什么是高阶组件，受控组件，非受控组件](/self-examination//框架和类库//react//HOC-component.md)
 
 - [`useEffect` 能完全模拟 `componentDidUpdate` 么？](/self-examination/框架和类库/react/useEffect-componentDidUpdate.md)
-
-- [React 的事件底层实现机制](/self-examination/框架和类库/react/event.md)
 
 - [hook 为什么不能出现在控制语句中？为什么要用链表或数组，用其他的数据结构不行么](/self-examination/框架和类库/react/hook-control.md)
 
