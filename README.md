@@ -285,6 +285,8 @@
 
 - [虚拟 DOM 是否真的比操作原生 DOM 快](/self-examination//%E6%A1%86%E6%9E%B6%E5%92%8C%E7%B1%BB%E5%BA%93/框架概念/virtualDOM-DOM.md)
 
+- [MVVM、MVC、MVP 三者的区别](/self-examination/框架和类库/框架概念/mvvm-mvc-mvp.md)
+
 ### React
 
 - [React 中的 DOM 更新策略](/self-examination/框架和类库/react/dom-update.md)
