@@ -322,6 +322,8 @@
 
 - [手写实现 `computed` 函数](/self-examination//框架和类库//vue//computed.md)
 
+- [为什么 Vue3 使用了 `Proxy` 进行数据监听](/self-examination/框架和类库/vue/proxy-defineProperty.md)
+
 ### Webpack
 
 - [Tree-shaking 的原理](/self-examination/框架和类库/webpack/tree-shaking.md)
