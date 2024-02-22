@@ -19,6 +19,7 @@
 - [计算机基础](#计算机基础)
   - [编译原理](#编译原理)
   - [网络协议](#网络协议)
+  - [网络安全](#网络安全)
 - [数据结构与算法](#数据结构与算法)
   - [Javascript 编码能力](#javascript-编码能力)
   - [手动实现前端轮子](#手动实现前端轮子)
@@ -195,6 +196,10 @@
 - [理解 WebSocket 协议的底层原理、与 HTTP 的区别](/self-examination//计算机基础//网络协议//socket-http.md)
 
 - [SSE 的原理和如何使用](/self-examination/计算机基础/网络协议/SSE.md)
+
+### 网络安全
+
+- [请说说 xss、csrf 攻击原理和防范措施](/self-examination/计算机基础/网络安全/xss-csrf.md)
 
 </br>
 
