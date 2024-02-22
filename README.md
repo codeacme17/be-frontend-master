@@ -144,6 +144,8 @@
 
 ### CSS
 
+- [CSS 都有哪些新的特性和功能](/self-examination/HTML和CSS/CSS/new-feature.md)
+
 - [了解 CSS 盒模型，在不同浏览器的差异](/self-examination//HTML%E5%92%8CCSS//CSS//box-model.md)
 
 - [CSS 所有选择器及其优先级、使用场景，哪些可以继承，如何运用 at(`@`) 规则](/self-examination//HTML%E5%92%8CCSS//CSS//priority-selector.md)
