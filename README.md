@@ -347,6 +347,10 @@
 
 - [理解 Viewport、`em`、`rem` 的原理和用法，分辨率、`px`、`ppi`、`dpi`、`dp` 的区别和实际应用](/self-examination//框架和类库//多端开发//viewport.md)
 
+## 项目和业务
+
+- [站在前端的角度说说 toC 和 toB 的不同](/self-examination/项目和业务/toC-toB.md)
+
 </br>
 
 ## 引用
