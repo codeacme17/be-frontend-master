@@ -315,6 +315,8 @@
 
 - [`useEffect` 与 `useLayoutEffect` 的区别](/self-examination/框架和类库/react/useEffect-useLayoutEffect.md)
 
+- [说说 Hook 与普通函数的区别](/self-examination/框架和类库/react/hook-pure.md)
+
 ### Vue
 
 - [说一说 Vue 和 React 的区别](/self-examination/框架和类库/vue/vue-react.md)
