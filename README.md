@@ -341,6 +341,8 @@
 
 ### 前端工具
 
+- [Babel 的核心原理，可以自己编写一个 Babel 插件](/self-examination/前端工程/前端工具/babel.md)
+
 - [理解 npm、yarn 和 pnpm 的区别](/self-examination/前端工程/前端工具/npm-yarn-pnpm.md)
 
 ### Webpack
