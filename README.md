@@ -33,8 +33,10 @@
   - [框架概念](#框架概念)
   - [React](#react)
   - [Vue](#vue)
-  - [Webpack](#Webpack)
   - [多端开发](#多端开发)
+- [前端工程](#前端工程)
+  - [前端工具](#前端工具)
+  - [Webpack](#Webpack)
 - [引用](#引用)
 
 ## Javascript 基础
@@ -331,21 +333,27 @@
 
 - [为什么 Vue3 使用了 `Proxy` 进行数据监听](/self-examination/框架和类库/vue/proxy-defineProperty.md)
 
-### Webpack
-
-- [Tree-shaking 的原理](/self-examination/框架和类库/webpack/tree-shaking.md)
-
-- [Webpack 中 loader 的作用，有哪些常见的 loader](/self-examination/框架和类库/webpack/loader.md)
-
-- [Webpack 中 plugin 的作用，有哪些常见的 plugin](/self-examination/框架和类库/webpack/plugin.md)
-
-- [loader 与 plugin 的不同是什么](/self-examination/框架和类库/webpack/different-loader-plugin.md)
-
-- [Webpack proxy 的工作原理，为什么可以解决跨域问题](/self-examination/框架和类库/webpack/proxy.md)
-
 ### 多端开发
 
 - [理解 Viewport、`em`、`rem` 的原理和用法，分辨率、`px`、`ppi`、`dpi`、`dp` 的区别和实际应用](/self-examination//框架和类库//多端开发//viewport.md)
+
+## 前端工程
+
+### 前端工具
+
+- [理解 npm、yarn 和 pnpm 的区别](/self-examination/前端工程/前端工具/npm-yarn-pnpm.md)
+
+### Webpack
+
+- [Tree-shaking 的原理](/self-examination/前端工程//webpack/tree-shaking.md)
+
+- [Webpack 中 loader 的作用，有哪些常见的 loader](/self-examination/前端工程/webpack/loader.md)
+
+- [Webpack 中 plugin 的作用，有哪些常见的 plugin](/self-examination/前端工程/webpack/plugin.md)
+
+- [loader 与 plugin 的不同是什么](/self-examination/前端工程/webpack/different-loader-plugin.md)
+
+- [Webpack proxy 的工作原理，为什么可以解决跨域问题](/self-examination/前端工程/webpack/proxy.md)
 
 ## 项目和业务
 
