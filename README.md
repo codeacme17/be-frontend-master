@@ -337,6 +337,8 @@
 
 - [理解 Redux 实现原理和其中间件的实现原理](/self-examination/框架和类库/状态管理/redux.md)
 
+- [理解 Mobx 实现原理，相比于 Redux 有什么优势](/self-examination/框架和类库/状态管理/mobx.md)
+
 ### 多端开发
 
 - [理解 Viewport、`em`、`rem` 的原理和用法，分辨率、`px`、`ppi`、`dpi`、`dp` 的区别和实际应用](/self-examination//框架和类库//多端开发//viewport.md)
